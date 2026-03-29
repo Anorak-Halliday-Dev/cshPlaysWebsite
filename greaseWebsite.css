@@ -32,6 +32,7 @@ footer {
     position: relative;
     bottom: 500px;
     margin: 0 auto;
+    overflow: hidden;
 }
 #contents {
     background-color: cornflowerblue;
