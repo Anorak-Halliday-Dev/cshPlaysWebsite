@@ -8,11 +8,11 @@ body {
     color: white;
 }
 header {
-    background-color: cornflowerblue;
     width: 1000px;
     top: 100px;
     margin: 0 auto;
     border: dashed, white, 5px;
+    background-color: cornflowerblue;
 }
 h1 {
     font-size: 72px;
