@@ -30,7 +30,7 @@ footer {
     background-color: cornflowerblue;
     border: white,dashed,5px;
     position: relative;
-    bottom: 500px;
+    bottom: 25px;
     margin: 0 auto;
     overflow: hidden;
     overscroll-behavior: contain;
